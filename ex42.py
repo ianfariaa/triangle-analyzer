@@ -13,4 +13,4 @@ else:
     print('Os seguimentos não pode formar um triangulo')
 
 # Isso é uma forma diferente de usar as condições alinhadas.É possível colocar um if dentro de outro if.
-# Como se fossem dois caminhos, um é sem saída (else), e o outro tem como prosseguir de várias maneiras.
+# Como se fossem dois caminhos, um é sem saída (else), e o outro tem como prosseguir de várias maneiras(if).
