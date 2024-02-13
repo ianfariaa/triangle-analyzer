@@ -1,1 +1,1 @@
-Use números para responder as Pergundas, e veja o resultado.
+Use números para responder as Perguntas, e veja o resultado.
